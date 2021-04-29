@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @adialmuhsin
+- 👀 I’m interested in Data Engineer, IoT, and Machine Learning
+- 🌱 I’m currently learning IoT System
+- 💞️ I’m looking to collaborate on Data Enthusiast
+- 📫 How to reach me: adialmuhsin@gmail.com
