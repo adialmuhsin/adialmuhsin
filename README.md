@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adialmuhsin
-- 👀 I’m interested in Data Engineer, IoT, and Machine Learning
+- 👀 I’m interested in Data Engineer, Infrastructure, and IoT
 - 🌱 I’m currently learning System Engineer in Big data
 - 💞️ I’m looking to collaborate on Data Enthusiast
 - 📫 How to reach me: adialmuhsin@gmail.com
